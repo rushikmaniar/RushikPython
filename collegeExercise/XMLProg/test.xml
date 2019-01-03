@@ -1,0 +1,17 @@
+<users>
+    <child1>
+        <id>124</id>
+        <name>John</name>
+        <salary>1000</salary>
+    </child1>
+    <child1>
+        <id>125</id>
+        <name>John2</name>
+        <salary>1000</salary>
+    </child1>
+    <child1>
+        <id>126</id>
+        <name>John3</name>
+        <salary>1000</salary>
+    </child1>
+</users>
