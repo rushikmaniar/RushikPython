@@ -1,5 +1,5 @@
 '''
-    insertion sort
+    10.Write a program showing Insertion sort.
 '''
 def insertion_sort(InputList):
     for i in range (1,len(InputList)):
