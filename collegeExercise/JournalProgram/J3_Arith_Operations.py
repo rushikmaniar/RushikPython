@@ -1,8 +1,8 @@
 '''
 3. Write a program showing  arithmatic operators
 '''
-a = int(input("First Value For A : "))
-b = int(input("First Value For B : "))
+a = int(input("Enter Value For A : "))
+b = int(input("ENter Value For B : "))
 
 #Addition
 c = a + b
