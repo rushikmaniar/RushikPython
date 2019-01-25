@@ -15,7 +15,7 @@ else:
 
 print("Email Validation email:rus@gmail.com")
 pattern = "r[\w\.-]+@[\w\.-]+"
-if re.match(pattern,"7898989898"):
+if re.match(pattern,"rus@gmail.com"):
     print('Match')
 else:
     print('Not Match')

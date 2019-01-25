@@ -22,5 +22,5 @@ class Child(Parent):
     def childMethod(self):
         print('Calling Child Method')
 
-c1 = Child(Parent)
+c1 = Child()
 c1.parentMethod()
