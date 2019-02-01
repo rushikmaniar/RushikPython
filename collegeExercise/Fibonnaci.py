@@ -11,13 +11,13 @@ def recur_fibo(n):
 
 print('Fibonacci Series')
 n = int(input('Enter Length Of Series:'))
-
+'''
 if n <= 0:
     print('Enter Positive Number : ')
 else:
     for i in range(n):
-        print(recur_fibo(i))
-'''
+        print(recur_fibo(i))'''
+
 
 print("\n\n Using While loop")
 prev=0
@@ -31,7 +31,7 @@ while(i < n-2):
     print(current)
     next_current = prev + current
     i = i + 1
-    '''
+
 
 
 
